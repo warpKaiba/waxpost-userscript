@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Weasyl Crossposter
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  waxpost but it works
 // @author       mileskitaro
 // @match        https://www.furaffinity.net/view/*
@@ -13,6 +13,7 @@
 // @grant        GM_registerMenuCommand
 // @icon         https://www.weasyl.com/img/favicon-YIHdjAYHmG.png
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+// @downloadURL  https://github.com/warpKaiba/waxpost-userscript/raw/main/weasyl-crossposter.user.js
 // ==/UserScript==
 
 if (window.location.href.includes("weasyl.com/submit/visual")) {
