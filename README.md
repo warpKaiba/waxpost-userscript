@@ -2,7 +2,7 @@
 
 This is a WIP browser user-script version of Waxpost, the non-functional Weasyl crossposter. Currently only works with FurAffinity. 
 
-![](https://i.imgur.com/ksPmF0f.png)
+![](https://i.imgur.com/CfFVltz.png)
 
 # Installation
 
