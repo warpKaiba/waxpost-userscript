@@ -1,6 +1,6 @@
 # waxpost-userscript
 
-This is a WIP browser user-script version of Waxpost, the non-functional Weasyl crossposter. Currently only works with FurAffinity. 
+This is a WIP browser user-script version of Waxpost, the non-functional Weasyl crossposter. Currently works with FurAffinity, Sofurry, Inkbunny, and DeviantArt. This extension lets you easily crosspost images from these websites to Weasyl.
 
 ![](https://i.imgur.com/CfFVltz.png)
 
